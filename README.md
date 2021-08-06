@@ -2,7 +2,6 @@
 bash script
 
 // Plum Tree Garden
-// -list of current bash scripts and short description
 
 
 **add1:**
