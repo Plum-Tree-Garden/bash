@@ -4,10 +4,10 @@ bash script
 // Plum Tree Garden
 
 
-**add1:**
+**add1:** simple addition function
 
 
-**add2:**
+**add2:** addition function with conditional statements
 
 
 **phone1:**
