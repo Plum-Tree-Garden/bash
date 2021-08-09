@@ -10,10 +10,10 @@ bash script
 **add2:** addition function with conditional statements
 
 
-**phone1:**
+**phone1:** search colum fields in a given directory
 
 
-**phone2:**
+**phone2:** search for name within a given directory
 
 
 **phone3:**
