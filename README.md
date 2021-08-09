@@ -22,7 +22,7 @@ bash script
 **phone4:** search for name in directory with conditional statements and display messages
 
 
-**rename1:** 
+**rename1:** rename all files that do mach a given filename
 
 
-**rename2:**
+**rename2:** rename all files that do not match a given filename
