@@ -16,13 +16,13 @@ bash script
 **phone2:** search for name within a given directory
 
 
-**phone3:**
+**phone3:** search for name in directory with conditional statements
 
 
-**phone4:**
+**phone4:** search for name in directory with conditional statements and display messages
 
 
-**rename1:**
+**rename1:** 
 
 
 **rename2:**
