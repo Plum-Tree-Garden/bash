@@ -1,5 +1,4 @@
-# bash
-bash script
+# shell script
 
 // Plum Tree Garden
 
